@@ -1,0 +1,1 @@
+Modern one page responsive template made using HTML, CSS, Bootstrap, JavaScript, jQuery with image gallery, parallax images.  
